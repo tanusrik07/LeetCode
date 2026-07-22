@@ -1,4 +1,12 @@
 # LeetCode
+
+## About Me
+- TANUSRI K
+- B.E. CSE (AI & ML)
+- Goal: Solve 300+ LeetCode problems
+- Language: Python
+- Started: July 2026
+# LeetCode
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
